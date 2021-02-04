@@ -1,0 +1,822 @@
+&nbsp;
+<table>
+<tbody>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>க் + அ =  க</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ங்  + அ  = ங</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ச் +  அ =  ச</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #000000;"><strong>க் +  ஆ = கா</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>ங்  + ஆ  = ஙா</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #000000;"><strong>ச் +  ஆ =  சா</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>க் +  இ  = கி</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #000000;"><strong>ங் + இ  = ஙி</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>ச் +  இ =  சி</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>க் +  ஈ  = கீ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #000000;"><strong>ங்  +  ஈ = ஙீ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>ச் +  ஈ     = சீ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #000000;"><strong>க் +  உ = கு</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>ங் +  உ  = ஙு</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #000000;"><strong>ச் +  உ = சு</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #000000;"><strong>க் +  ஊ  = கூ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>ங்  + ஊ  = ஙூ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #000000;"><strong>ச் +  ஊ = சூ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>க் +  எ = கெ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #000000;"><strong>ங்  +  எ = ஙெ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>ச் +  எ = செ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>க் +  ஏ  = கே</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #000000;"><strong>ங்  +  ஏ = ஙே</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>ச் +  ஏ = சே</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #000000;"><strong>க் +  ஐ = கை</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>ங்  +  ஐ = ஙை</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #000000;"><strong>ச் +  ஐ = சை</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #000000;"><strong>க் +  ஒ  = கொ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>ங்  +  ஒ  = ஙொ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #000000;"><strong>ச் +  ஒ = சொ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>க் +  ஓ  =  கோ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #000000;"><strong>ங்  +  ஓ  = ஙோ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>ச் +  ஓ = சோ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>க்  + ஔ =  கௌ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #000000;"><strong>ங்  +  ஔ  =  ஙௌ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf; height: 23px;" width="314">
+<h4><span style="color: #0571c9;"><strong>ச் + ஔ = சௌ</strong></span></h4>
+</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<table>
+<tbody>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ஞ் +  அ = ஞ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ட்  +  அ = ட</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ண்  +  அ  =  ண</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ஞ் +  ஆ =  ஞா</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ட்  +  ஆ = டா</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ண்   +   ஆ  =  ணா</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ஞ் +  இ =ஞி</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ட்  +  இ = டி</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ண்  +   இ  =  ணி</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ஞ் +  ஈ =  ஞீ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ட் +  ஈ  = டீ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ண்   +    ஈ   =  ணீ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ஞ் +  உ = ஞு</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ட் +  உ = டு</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ண்   +     உ = ணு</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ஞ் +  ஊ = ஞூ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ட் +  ஊ  = டூ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ண்   + ஊ    = ணூ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ஞ் +  எ = ஞெ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ட்  +  எ  = டெ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ண்  +  எ  = ணெ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ஞ் +  ஏ  = ஞே</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ட்  +  ஏ = டே</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ண்    + ஏ = ணே</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ஞ் +  ஐ = ஞை</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ட் +  ஐ = டை</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ண்  +   ஐ   = ணை</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ஞ் +  ஒ  = ஞொ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ட்  +  ஒ  = டொ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ண்  + ஒ = ணொ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ஞ் +  ஓ  =  ஞோ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ட்  +  ஓ  = டோ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ண்    +ஓ  = ணோ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ஞ் + ஔ = ஞௌ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ட் + ஔ  = டௌ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ண்  +ஔ = ணௌ</strong></span></h4>
+</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<table>
+<tbody>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>த் + அ =  த</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ந் +  அ =  ந</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ப் + அ = ப</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>த் +  ஆ = தா</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ந் + ஆ = நா</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ப் + ஆ = பா</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>த் +  இ = தி</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ந் +  இ = நி</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ப் + இ = பி</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>த் +  ஈ  = தீ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ந் +  ஈ  = நீ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ப் + ஈ  =  பீ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>த் +  உ = து</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ந் +  உ = நு</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ப் + உ = பு</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>த் +  ஊ = தூ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ந் +  ஊ = நூ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ப் + ஊ  = பூ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>த் +  எ  = தெ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ந் +  எ  = நெ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ப் + எ = பெ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>த் +  ஏ = தே</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ந் +  ஏ = நே</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ப் + ஏ = பே</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>த் +  ஐ =  தை</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ந் +  ஐ = நை</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ப் + ஐ = பை</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>த் +  ஒ  = தொ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ந் +  ஒ  = நொ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ப் + ஒ = பொ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>த் +  ஓ  = தோ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ந் +  ஓ  = நோ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ப் + ஓ = போ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>த் + ஔ = தௌ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ந் + ஔ = நௌ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ப்  + ஔ = பௌ</strong></span></h4>
+</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<table>
+<tbody>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ம் + அ = ம</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ய் + அ = ய</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ர் + அ =  ர</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ம் + ஆ = மா</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ய் +ஆ = யா</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ர் + ஆ = ரா</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ம் + இ = மி</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ய் +  இ = யி</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ர் + இ  = ரி</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ம் + ஈ = மீ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ய் + ஈ =  யீ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ர் + ஈ =  ரீ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ம் + உ= மு</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ய் + உ = யு</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ர் + உ= ரு</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ம் + ஊ = மூ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ய் + ஊ  = யூ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ர் + ஊ   = ரூ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ம் + எ = மெ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ய் + எ = யெ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ர் + எ = ரெ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ம் + ஏ = மே</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ய் + ஏ = யே</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ர் +  ஏ = ரே</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ம் + ஐ = மை</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ய் + ஐ  = யை</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ர் + ஐ = ரை</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ம் + ஒ = மொ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ய்+ ஒ   =  யொ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ர் + ஒ = ரொ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ம் + ஓ = மோ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ய்  + ஓ = யோ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ர் +  ஓ = ரோ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ம் + ஔ  =  மௌ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #000000;"><strong>ய் + ஔ =  யௌ</strong></span></h4>
+</td>
+<td style="text-align: center; border: 2px solid #5579bf;" width="314">
+<h4><span style="color: #0571c9;"><strong>ர் + ஔ = ரௌ</strong></span></h4>
+</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<table>
+<tbody>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ல + அ = ல</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>வ் + அ = வ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ழ் +  அ = ழ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ல + ஆ = லா</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>வ் + ஆ = வா</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ழ் +  ஆ = ழா</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ல + இ = லி</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>வ் + இ = வி</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ழ் +  இ = ழி</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ல + ஈ = லீ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>வ் + ஈ  = வீ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ழ் +  ஈ  =  ழீ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ல + உ = லு</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>வ் +  உ= வு</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ழ் +  உ = ழு</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ல + ஊ = லூ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>வ் + ஊ = வூ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ழ் +  ஊ = ழூ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ல + எ = லெ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>வ் + எ = வெ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ழ் + எ = ழெ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ல + ஏ = லே</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>வ் + ஏ = வே</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ழ் + ஏ = ழே</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ல + ஐ = லை</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>வ் + ஐ = வை</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ழ் + ஐ = ழை</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ல + ஒ = லொ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>வ் + ஒ = வொ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ழ் + ஒ  = ழொ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ல + ஓ  = லோ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>வ் + ஓ = வோ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ழ் + ஓ  =ழோ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ல + ஔ = லௌ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>வ் + ஔ = வௌ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 324px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ழ் + ஔ  =  ழௌ</strong></span></h4>
+</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<table style="height: 553px;" width="997">
+<tbody>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ள + அ = ள</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ற் + அ  = ற</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ன் + அ = ன</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ள + ஆ = ளா</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ற் + ஆ = றா</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ன்  + ஆ =  னா</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ள + இ = ளி</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ற் + இ = றி</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ன் + இ =  னி</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ள + ஈ = ளீ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ற் + ஈ = றீ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ன் + ஈ =  னீ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ள + உ= ளு</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ற் + உ = று</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ன் + உ =னு</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ள + ஊ  =  ளூ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ற் + ஊ = றூ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ன் +  ஊ  =னூ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ள + எ =  ளெ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ற் + எ  =  றெ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ன் + எ =  னெ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ள +  ஏ = ளே</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ற் + ஏ  = றே</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ன் + ஏ =  னே</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ள +  ஐ = ளை</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ற் + ஐ =  றை</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ன்  +  ஐ  = னை</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ள + ஒ  =  ளொ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ற் + ஒ = றொ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ன் + ஒ  =  னொ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ள + ஓ  = ளோ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ற் + ஓ       = றோ</strong></span></h4>
+</td>
+<td style="height: 5px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ன் +  ஓ  = னோ</strong></span></h4>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ள + ஔ   =ளௌ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #000000;"><strong>ற்  + ஔ =  றௌ</strong></span></h4>
+</td>
+<td style="height: 23px; width: 325px; text-align: center; border: 2px solid #5579bf;">
+<h4><span style="color: #0571c9;"><strong>ன்  + ஔ = னௌ</strong></span></h4>
+</td>
+</tr>
+</tbody>
+</table>
