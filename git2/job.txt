@@ -1,0 +1,34 @@
+https://jobs.giftabled.org/wp-content/plugins/wp-jobsearch/images/restrict-candidate.png
+
+Thank you for submitting
+
+Thank you for submitting, your job has been published. If you need help please contact us via email jobs@giftabled.org
+
+https://jobs.giftabled.org/wp-content/plugins/wp-jobsearch/images/employer-confirmation-icon.png
+
+
+jquery validation person no:9851151757  Dinesh Karki
+Email id: dnesscarkey@gmail.com
+
+Add upload file option in registration page for disability. Done
+Remove any from pwds drop down.	 Done
+Replace any to others in LGBT+ drop down.Done
+Remove multiple selections from D&I classification. Done
+Matching job skill option enable.Done
+Add jobs menu after D&I classification and redirect to all post job page. Done
+search option in featured listing section.Done
+Add the apply now button home page main section after job post. Not possible
+In the job page contact employer mail id redirect to giftabled mail id or Remove that.	Done
+Add pagination in featured. Done
+Add apply Now button on job page. Done
+Add featured listing in top. Done
+
+
+/org memu css
+.menu-horizontal li:not(:last-child) {
+    margin-right: 5.238095em;
+}
+
+.menu-horizontal > li:not(:hover) > a, .menu-horizontal > li:not(:hover) > span, .menu-horizontal > li:not(:hover) > .modal-instance > .modal-trigger {
+    opacity: 1.5;
+}
